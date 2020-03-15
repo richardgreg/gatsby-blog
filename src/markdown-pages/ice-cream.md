@@ -1,5 +1,5 @@
 ---
-title: "Why I Love Ice Cream by Richard Gregory"
+title: "Why I Love Ice Cream, by Richard Gregory"
 date: "2020-02-20"
 ---
 

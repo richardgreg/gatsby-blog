@@ -1,11 +1,9 @@
 ---
-title: 'The Tachyon Murder by Richard Muller'
+title: 'The Tachyon Murder, by Richard Muller'
 date: '2020-03-02'
 description: 'This is a paradox invented by renowned Physicists Richard Muller
 when teaching relativity theory at UC Berkeley.'
 ---
-
-### Tachyon Murder
 
 This is a paradox invented by renowned Physicists Richard Muller when teaching
 relativity theory at UC Berkeley. He is faced with the question whether "faster
